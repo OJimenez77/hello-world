@@ -1,2 +1,4 @@
 # hello-world
-Just another 
+
+Hello everyone! 
+Just starting my journey in CS... 
